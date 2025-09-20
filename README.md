@@ -37,5 +37,32 @@
 
 1. Buat Folder & Inisialisasi Git
 
-<img width="571" height="479" alt="Image" src="https://github.com/user-attachments/assets/74418e3c-1bb0-4d6a-b36a-7e7c76edacde" />
+    <img width="571" height="479" alt="Image" src="https://github.com/user-attachments/assets/c08672f3-cc90-40c5-9dd6-9fca6bf97a2f" />
 
+2. Buat Beberapa File
+
+   <img width="571" height="479" alt="Image" src="https://github.com/user-attachments/assets/66334654-ba19-4d5a-a3a4-2740c471b2b1" />
+
+3. Cek Status & Masuk ke Staging Area
+
+   <img width="571" height="479" alt="Image" src="https://github.com/user-attachments/assets/74418e3c-1bb0-4d6a-b36a-7e7c76edacde" />
+
+4. Simpan Perubahan (Commit)
+
+   <img width="571" height="479" alt="Image" src="https://github.com/user-attachments/assets/f87f9618-cb21-47e1-8a33-58e810a13f0e" />
+
+5. Buat Branch Baru
+
+   <img width="571" height="479" alt="Image" src="https://github.com/user-attachments/assets/2f13e8d5-deb6-4ed1-b031-5a6ec716beed" />
+
+6. Buat File Baru di Branch
+
+   <img width="571" height="479" alt="Image" src="https://github.com/user-attachments/assets/2247479f-fee4-4f85-ad76-b5e9f2f43454" />
+
+7. Staging & Commit di Branch
+
+   <img width="571" height="479" alt="Image" src="https://github.com/user-attachments/assets/52f3458f-e097-4446-8b70-65a2d92b4118" />
+
+8. Gabungkan Branch (Merge)
+   
+   <img width="571" height="479" alt="Image" src="https://github.com/user-attachments/assets/b43da5eb-efb9-40ce-8c63-e98dbaecba93" />
